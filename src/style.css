@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
+
+body {
+    color:whitesmoke;
+    background-color: rgb(10, 10, 228);
+    font-family: 'DM Serif Display', serif;
+}
+
+.btn {
+    text-decoration: none;
+    padding: 30px;
+    margin-top: 130px;
+    cursor:pointer;
+    background-color: rgb(33, 175, 231);
+    font-family: 'Josefin Sans', sans-serif;
+    color: #fff;
+    font-size: 20pt;
+    border-radius: 80px;
+    height: 70px;
+    width: 300px;
+    border-color:blue;
+}
+
+.btn:hover {
+    background-color: rgb(33, 150, 231);
+    color: rgb(234, 228, 248);
+}
+
+.intro {
+    margin-top: 100px;
+    text-align: center;
+    
+}
