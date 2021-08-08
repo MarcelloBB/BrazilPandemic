@@ -1,1 +1,1 @@
-alert("Pandemia")
+window.alert("Seja bem-vindo(a) ao BrasilPandemic");
