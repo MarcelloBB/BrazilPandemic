@@ -1,0 +1,3 @@
+Todos os dados foram retirados do site: 
+    * https://ourworldindata.org/coronavirus/country/brazil
+
