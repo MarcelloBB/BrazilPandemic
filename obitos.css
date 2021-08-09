@@ -27,13 +27,7 @@ a:hover {
     word-spacing: 10px;
 }
 
-.links {
-    margin-left: 200px;
-    margin-top: 180px;
+.info {
+    margin-top: 70px;
 }
 
-.covid {
-    text-align: right;
-    margin-right: 250px;
-    margin-top: -185px;
-}
